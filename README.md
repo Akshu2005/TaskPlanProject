@@ -10,7 +10,7 @@ This project demonstrates real-world application development using modern web te
 
 ---
 
-LIVE LINK : https://task-plan-project.vercel.app
+LIVE LINK : task-planer-inky.vercel.app
 
 ## 🚀 Key Features:
 
